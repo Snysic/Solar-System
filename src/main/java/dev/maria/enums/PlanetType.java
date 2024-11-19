@@ -1,5 +1,5 @@
 package dev.maria.enums;
 
-public class PlanetType {
-    
+public enum PlanetType {
+    GASEOUS, TERRESTRIAL, DWARF
 }
